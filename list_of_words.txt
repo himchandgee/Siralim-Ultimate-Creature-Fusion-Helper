@@ -1,0 +1,15 @@
+resurrect
+attack
+gain
+buff
+stats
+attacks
+afflicts
+minion
+heal
+poison
+weak
+defense
+speed
+health
+intelligence
