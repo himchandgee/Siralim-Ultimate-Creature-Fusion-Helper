@@ -244,8 +244,8 @@ Using NLTK, we developed a functional search engine designed to assist players i
 
 **Contribution**
 
-Himchand Gee: Program designer, researched relevant information on what needs to be included to work effectively, programmer, final report writer.
+Himchand Gee: Program designer, researched relevant information on what needs to be included to work effectively, programmer, and final report writer.
 
-Yuchong Zhu: Programming and revision of details of the program. Writing of final research paper. Research relevant NLP model.
+Yuchong Zhu: Programming and revision of details of the program. Writing of the final research paper. Research a relevant NLP model.
 
  
